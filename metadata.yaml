@@ -1,0 +1,12 @@
+- name: NewTegomin
+  displayname: ニューテゴミン
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/NewTegomin-Regular
+        codes: 7074
+        weight: 400
+        xfl: true
